@@ -115,3 +115,6 @@ def test(data_num):
     # print testdata
     # print '\n'
     plot_data(testdata)
+
+if __name__ == "__main__":
+    main_run()
