@@ -5,6 +5,9 @@ author:zhaojiong
 EM算法初稿2016-4-28
 初始化三个一维的高斯分布，
 url ：http://blog.csdn.net/wodejiaozj/article/details/51285468
+url: http://www.cnblogs.com/jerrylead/archive/2011/04/06/2006936.html （EM算法）The EM Algorithm
+url :http://www.cnblogs.com/jerrylead/archive/2011/04/06/2006924.html　混合高斯模型（Mixtures of Gaussians）和EM算法
+url : http://www.cnblogs.com/jerrylead/archive/2011/04/06/2006910.html  K-means聚类算法
 '''
 from numpy import *
 import numpy as np
